@@ -1,6 +1,6 @@
 # GlobalShow
 
-##### Movie application uses The Movie DB API in order to fetch all the Hollywood Movies , Arabic Movies and TV . 
+##### Movie application uses The Movie DB API (https://www.themoviedb.org) in order to fetch all the Hollywood Movies , Arabic Movies and TV . 
 
 ### Libraries used:
 ---------------------
