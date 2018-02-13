@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">MovieIMDb</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="MOVIE_DB_API_KEY">c54dc35deff31fc74b2e0a42cd7c489f</string>
+
+    <string name="movies">Movies</string>
+    <string name="arabic_movies">Arabic Movies</string>
+    <string name="tv_shows">TV Shows</string>
+    <string name="favorites">Favorites</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="press_again_to_exit">Press again to exit</string>
+    <string name="search_movies_tv_shows_people">Search Movies, TV Shows, People</string>
+
+    <string name="no_network">No internet connection</string>
+
+    <string name="now_showing">Now Showing</string>
+    <string name="popular">Popular</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="airing_today">Airing Today</string>
+    <string name="on_the_air">On The Air</string>
+    <string name="view_all">View All</string>
+
+    <string name="no_fav_movies">No Favourite Movies</string>
+    <string name="no_fav_tv_shows">No Favourite TV Shows</string>
+
+
+    <string name="now_showing_movies">Now Showing Movies</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="upcoming_movies">Upcoming Movies</string>
+    <string name="top_rated_movies">Top Rated Movies</string>
+
+    <string name="airing_today_tv_shows">Airing Today TV Shows</string>
+    <string name="on_the_air_tv_shows">On The Air TV Shows</string>
+    <string name="popular_tv_shows">Popular TV Shows</string>
+    <string name="top_rated_tv_shows">Top Rated TV Shows</string>
+
+
+    <string name="title_activity_movie_detail">MovieDetailActivity</string>
+    <string name="title_activity_cast_detail">CastDetailActivity</string>
+    <string name="title_activity_view_all_movies">ViewAllMoviesActivity</string>
+    <string name="title_activity_view_all_tvshows">ViewAllTVShowsActivity</string>
+    <string name="title_activity_tvshow_detail">TVShowDetailActivity</string>
+    <string name="title_activity_movie_details">MovieDetails</string>
+
+    <string name="read_more">Read More</string>
+    <string name="movie_details">Release Date  \nRuntime  </string>
+    <string name="trailers">Trailers</string>
+    <string name="cast">Cast</string>
+    <string name="similar_movies">Similar Movies</string>
+    <string name="biography">Biography</string>
+    <string name="movie_cast">Movie Cast</string>
+    <string name="tv_cast">TV Cast</string>
+    <string name="tv_show_details">First Air Date  \nRuntime  \nStatus  \nOrigin Country  \nNetworks  </string>
+    <string name="videos">Videos</string>
+    <string name="similar_tv_shows">Similar TV Shows</string>
+    <string name="title_activity_tvshow_details">TVShowDetails</string>
+    <string name="title_activity_person_details">PersonDetails</string>
+    <string name="title_activity_search">SearchActivity</string>
+
+    <string name="no_results_found">No results found</string>
+
+    <string name="movie">Movie</string>
+    <string name="tv_show">TV Show</string>
+    <string name="person">Person</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
